@@ -1,0 +1,1 @@
+This project develops a full Discounted Cash Flow (DCF) valuation model for AENA S.A., the world's largest airport operator. The model forecasts operating performance, projects Free Cash Flow to the Firm (FCFF), estimates WACC using CAPM, and derives intrinsic equity value through terminal value and sensitivity analysis.
